@@ -1,5 +1,7 @@
 # microservices-devops-challenge02
 
+Challenge 02 of the course "[Development of Modern and Scalable Applications with Microservices (pt-br)](https://drive.google.com/file/d/1JXXmYhfi-Sk0zwiEbBIEswDC6AFeyBlD/view?usp=sharing)".
+
 "Hello World" in Go using the multi-staged build technique to build a Docker image less than 2MB size
 
 ## Requirements
